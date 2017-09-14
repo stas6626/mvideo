@@ -14,3 +14,4 @@
 На тесте лучше себя показал xgboost, его и оставил
 
 Для запуска нужен python 3,gensim,numpy,pandas,sklearn,scipy,lightgbm,xgboost,bayes_opt,seaborn
+Все доп фалы тут https://drive.google.com/open?id=0BxG9I9tB3U7xeWllY2RKRThINDA
